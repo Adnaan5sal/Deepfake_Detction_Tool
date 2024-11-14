@@ -1,0 +1,16 @@
+# fastapi
+# uvicorn
+# tensorflow  # or other deep learning libraries like PyTorch if needed
+# opencv-python
+# numpy
+# dface
+# Pillow
+# sklearn
+# timm
+# torch
+# torchvision
+# tqdm
+opencv==3.4.2
+dlib==19.18.0
+numpy==1.22.0
+pillow>=6.2.2
